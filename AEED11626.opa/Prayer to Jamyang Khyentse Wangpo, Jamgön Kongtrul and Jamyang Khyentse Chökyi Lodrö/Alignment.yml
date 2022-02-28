@@ -1,0 +1,28 @@
+segment_sources:
+  PD22E43A4:
+    type: origin_type
+    relation: translation
+    language: en
+  P18B0A4F3:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  525bc01deec042d38a04ae9b5bda18b4:
+    PD22E43A4: 683be812efe7401aa037fa4b7e3368ae
+    P18B0A4F3: 459aeb17b807437f91aecddb762d9558
+  c7a29fa06f6e4af1a4480dc58a33546e:
+    PD22E43A4: aeca88aa2a8c46dbaef265dcaf99fe17
+    P18B0A4F3: 17a63404535d45699c4e4d773f5259e9
+  3d6d238ccf3a45e0b73d11cf82ce2693:
+    PD22E43A4: cf7c2d02247e42b69bd2d06a311d295f
+    P18B0A4F3: 0c20c37d1ba54b8fbd9d89cca633dad0
+  60f25a156c404e4a9f1f68091954bf1e:
+    PD22E43A4: a4cd5f57161d4b689094c1599966b313
+    P18B0A4F3: bdd624f2baad46be91f9f87fc289b8ae
+  3d7abee2c7324586a051f0f1a82b384b:
+    PD22E43A4: 9632785b00b14b05aa34ea9360dc2c94
+    P18B0A4F3: 04f36e876ae84f8eb926ee74f736d550
+  2bbf2a904fae47ea9c789a0ba40dc071:
+    PD22E43A4: bf03e6f398874887b8f49aa2da43dffd
+    P18B0A4F3: 54b1f7a057724db68a651d79813cc8b4

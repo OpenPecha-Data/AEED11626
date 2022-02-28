@@ -1,0 +1,58 @@
+segment_sources:
+  PD22E43A4:
+    type: origin_type
+    relation: translation
+    language: en
+  P9BDF5192:
+    type: origin_type
+    relation: translation
+    language: de
+  P0BE00399:
+    type: origin_type
+    relation: translation
+    language: es
+  P11611277:
+    type: origin_type
+    relation: translation
+    language: fr
+  P18B0A4F3:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  4ec8464fe33d4152970dee1197beecb6:
+    PD22E43A4: de5e9610dd524771b959116cf6cc9705
+    P9BDF5192: a1213fda52d0467798a5b74433d55688
+    P0BE00399: a3be6d72e9f14a9985f4f9e659e05e86
+    P11611277: f20734554c8d4aa39b0b6cb0666f01a5
+    P18B0A4F3: e2be8f7747534ea68836d32937f611d1
+  ec2f0a60448b4574bdc5de22f6267833:
+    PD22E43A4: 017b3a42a67146cf874c55d69399da87
+    P9BDF5192: 6b535d33b23844b89a7003debddd851c
+    P0BE00399: 6db9c35d0bab4ac690d52559b273dee5
+    P11611277: e9382aff29b1413f8e98c56a5a59bc24
+    P18B0A4F3: e61f1985597441fc838256234ef83c6d
+  b58d19ede852458983cb869ae2bd226a:
+    PD22E43A4: 043d846bca0145358b03eb372bb74a1c
+    P9BDF5192: 0c9cf04bcfb84b529a23a044f37322d1
+    P0BE00399: 8b16562b180642f4945cb0cf6ad913ab
+    P11611277: a0e3633afe0d4ec0a5a59679cdd0cbb2
+    P18B0A4F3: a8ccbd8fde87459983b7213d6a211b0e
+  a1f4bd232f2b414cb1b78921f2a14504:
+    PD22E43A4: bb014e7fc9ef42819747239445a136f6
+    P9BDF5192: 0122d0bace154a2786b4dc7ba2831d7f
+    P0BE00399: 03445b441a50430cb53812a82b64ddf0
+    P11611277: 0345e5492aec43949341c9dd380d2927
+    P18B0A4F3: 82a48ad56d21486789fca41b5d9e245e
+  add5dd2a9bed4d76a05e14b089abc78f:
+    PD22E43A4: 974a7862924f43108704a271bfd170d6
+    P9BDF5192: 5e8a35ec30f74ad9a2e9600f05536ba4
+    P0BE00399: 2433c38f7114412a8df07635dc07230a
+    P11611277: 203b27219d3f4a44bc1c7a888468f3e7
+    P18B0A4F3: d2baa74db38c4f6f935404a51ab293eb
+  1e87a130d4f5466b99c4f6c2e4e4d45e:
+    PD22E43A4: 67e3ec407a054bc78b46c714d1630726
+    P9BDF5192: 846832486f6246319747cb5c4122cd55
+    P0BE00399: 68a477f8570d47a9bb76a314e2bae9d7
+    P11611277: 9e29f02c65324974b4dd75fc2cabeeea
+    P18B0A4F3: 3ea5e0dd85b743cbbaee7154420b94d1
